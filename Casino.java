@@ -1,6 +1,6 @@
 import java.util.*;
 
-// This code is not safe, many inputs cause errors, but due dates happen and I didn't feel like spending
+// This code is insecure, many inputs cause errors, but due dates happen and I didn't feel like spending
 // a bunch of my free time doing error catching. Maybe I'll come back to this at some point
 // and make it safe
 
